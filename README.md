@@ -22,12 +22,6 @@ ABSTRACT -<a>
 > - [x] ASSIGNMENT 3
 > - [x] ASSIGNMENT 4
 
-## 🔗 ASSIGNMENTS LINK FOR SPECIFIC CONTRIBUTOR
-- <a href = "https://github.com/IBM-EPBL/IBM-Project-12402-1659450198/tree/main/Assessments/Team%20Lead"></a> • TEAM LEAD
-- <a href = "https://github.com/IBM-EPBL/IBM-Project-12402-1659450198/tree/main/Assessments/Team%20Member%201"></a> • TEAM MEMBER 1
-- <a href = "https://github.com/IBM-EPBL/IBM-Project-12402-1659450198/tree/main/Assessments/Team%20Member%202"></a> • TEAM MEMBER 2
-- <a href = "https://github.com/IBM-EPBL/IBM-Project-12402-1659450198/tree/main/Assessments/Team%20Member%203"></a> • TEAM MEMBER 3
----
 
 ## PRE DEVELOPMENT
 > - [x] <a herf = "https://github.com/IBM-EPBL/IBM-Project-12402-1659450198/tree/main/Pre-Development/Project%20Design%20Phase-1"></a> • Design Phase 1 
