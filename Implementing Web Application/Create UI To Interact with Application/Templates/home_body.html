@@ -1,0 +1,34 @@
+{% include 'base.html' %}
+
+<div class ="container d-flex justify-content-center align-items-center"  style="min-height: 100vh;">
+    <div>
+        <h1 style="color:  hsla(0, 49%, 63%, 0.8);text-align: center;font-weight: bolder;">JOB BASED ON YOUR SKILL</h1>
+
+        <div class="media">
+            <div class="media-left">
+                <img class="media-object" src="{{url_for('static', filename='js.jpg')}}" style="height: 250px; width: 500px;">
+            </div>
+            <div class="media-body">
+              <h3 class="media-heading" style="font-weight:bolder ;">JOB SEEKERS</h3>
+              <p style="color: dimgray;">
+                This Website is for the jobseekers to seek the job from the reputed company.This website have created rating for your skills and job recruites check your skills may set interview based on your skill.Eight percent of sucess is showing up.
+              </p>
+            </div>
+        </div>
+        
+        <div class="media">
+            <div class="media-left">
+                <img class="media-object" src="{{url_for('static', filename='jc.jpg')}}" style="height: 250px; width: 500px;">
+            </div>
+            <div class="media-body">
+              <h3 class="media-heading" style="font-weight:bolder ;" >JOB RECRUITERS</h3>
+              <p style="color: dimgray;">
+                Choose a job you love,and you will never have to work a day in yoyr life.Everything you're ever wanted is on the other side of fear.Fall seven times and stand up eight times.Job recruiters may select the seekers who had similar skills which their want.
+              </p>
+            </div>
+          </div> 
+    </div>
+</div>    
+
+
+{% include 'footer.html' %}
